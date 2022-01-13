@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JodieMc
-- 👀 I’m interested in web applications
-- 🌱 I’m currently learning Java, web application development, and database design and development
+- 👀 I’m interested in software development.
+- 🌱 I'm in the final weeks of a Higher Diploma in Computer Science during which I have completed modules in Object Oriented Software Design (Java), Database Design, Web and Mobile Applications Development, Network Technologies and more.
 - 💞️ 
 - 📫 
 
