@@ -1,3 +1,4 @@
+[Summary of GitHub Portfolio Contents.pdf](https://github.com/JodieMc/JodieMc/files/7872377/Summary.of.GitHub.Portfolio.Contents.pdf)
 - 👋 Hi, I’m @JodieMc
 - 👀 I’m interested in software development.
 - 🌱 I'm in the final weeks of a Higher Diploma in Computer Science during which I have completed modules in Object Oriented Software Design (Java), Database Design, Web and Mobile Applications Development, Network Technologies and more.
